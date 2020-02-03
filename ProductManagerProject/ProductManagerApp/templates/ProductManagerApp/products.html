@@ -7,6 +7,7 @@
             <table class="table table-bordered" style="margin-top: 50px;">
                 <thead class="thead-light">
                 <tr>
+                    <th scope="col">#</th>
                     <th scope="col">ID</th>
                     <th scope="col">Product Name</th>
                     <th scope="col">Price</th>
@@ -19,21 +20,30 @@
                 </tr>
                 </thead>
                 <tbody>
-                {% for product in product_list %}
+                {% if product_list %}
+                    {% for product in product_list %}
+                        <tr>
+                            <td>{{forloop.counter}}</td>
+                            <td>{{product.id}}</td>
+                            <td>{{product.name}}</td>
+                            <td>${{product.price}}</td>
+                            <td class="text-center">
+                                <form action="{% url 'product_delete' product.id %}" method="post">
+                                    {% csrf_token %}
+                                    <button type="submit" class="btn">
+                                        <i class="fas fa-trash-alt fa-lg text-danger"></i>
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                {% else %}
                     <tr>
-                        <td>{{product.id}}</td>
-                        <td>{{product.name}}</td>
-                        <td>${{product.price}}</td>
-                        <td class="text-center">
-                            <form action="{% url 'product_delete' product.id %}" method="post">
-                                {% csrf_token %}
-                                <button type="submit" class="btn">
-                                    <i class="fas fa-trash-alt fa-lg text-danger"></i>
-                                </button>
-                            </form>
+                        <td colspan="4" class="text-center" style="font-size:16pt;">
+                            No results found.
                         </td>
                     </tr>
-                {% endfor %}
+                {% endif %}
                 </tbody>
             </table>
 

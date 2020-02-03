@@ -26,3 +26,12 @@ def product_delete(request, id):
     product = Products.objects.get(pk=id)
     product.delete()
     return redirect('/')
+
+
+def search_product(request):
+    search_query = request.GET.get('search_query')
+    if search_query != "":
+        context = {'product_list': Products.objects.all().filter(name__contains=search_query)}
+        return render(request, 'ProductManagerApp/products.html', context)
+    else:
+        return redirect('/')
