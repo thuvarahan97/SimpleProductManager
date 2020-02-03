@@ -6,7 +6,7 @@ from .models import Products
 
 # Create your views here.
 
-def display_home(request):
+def product_list(request):
     context = {'product_list': Products.objects.all()}
     return render(request, 'ProductManagerApp/products.html', context)
 
