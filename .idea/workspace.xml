@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5683d882-61e2-42cd-8a0b-d0f89ecbf4ae" name="Default Changelist" comment="" />
+    <list default="true" id="5683d882-61e2-42cd-8a0b-d0f89ecbf4ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/templates/ProductManagerApp/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/templates/ProductManagerApp/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductManagerProject/ProductManagerProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManagerProject/ProductManagerProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductManagerProject/ProductManagerProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManagerProject/ProductManagerProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductManagerProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManagerProject/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +23,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XHgXbeJjszibMbagccCDJGD6Hz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,7 +41,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/templates/ProductManagerApp" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\ECommerceProductManagerWebsiteProject\ProductManagerProject\ProductManagerApp\static\ProductManagerApp" />
+      <recent name="E:\PycharmProjects\ECommerceProductManagerWebsiteProject\ProductManagerProject\ProductManagerApp\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\ECommerceProductManagerWebsiteProject\ProductManagerProject\ProductManagerApp\templates\ProductManagerApp" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,6 +68,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580715179829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580715179829" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1580711320614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
