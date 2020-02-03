@@ -1,14 +1,14 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from .forms import ProductForm
-from .models import Products
+from .models import Product
 
 
 # Create your views here.
 
 def product_list(request):
-    context = {'product_list': Products.objects.all()}
-    return render(request, 'ProductManagerApp/products.html', context)
+    context = {'product_list': Product.objects.all()}
+    return render(request, 'ProductManagerApp/product_list.html', context)
 
 
 def product_form(request):
@@ -19,11 +19,13 @@ def product_form(request):
         form = ProductForm(request.POST)
         if form.is_valid():
             form.save()
-        return redirect('/')
+            return redirect('/add_product?result=success')
+        else:
+            return redirect('/add_product?result=failed')
 
 
 def product_delete(request, id):
-    product = Products.objects.get(pk=id)
+    product = Product.objects.get(pk=id)
     product.delete()
     return redirect('/')
 
@@ -31,7 +33,7 @@ def product_delete(request, id):
 def search_product(request):
     search_query = request.GET.get('search_query')
     if search_query != "":
-        context = {'product_list': Products.objects.all().filter(name__contains=search_query)}
-        return render(request, 'ProductManagerApp/products.html', context)
+        context = {'product_list': Product.objects.all().filter(name__contains=search_query)}
+        return render(request, 'ProductManagerApp/product_list.html', context)
     else:
         return redirect('/')
