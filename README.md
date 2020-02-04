@@ -1,5 +1,5 @@
-# ECommerceProductManagerWebsiteProject
- A simple web-based application to manage a list of products. The application allows the user to perform the following basic tasks.
+# SimpleProductManager
+ This is a simple web-based application (website) to manage a list of products. The application allows the user to perform the following basic tasks.
  
  * View the list of products in a table/list
  * Adding a new product with details such as id, name and price
@@ -12,4 +12,4 @@
  ~ Used Python (version 3.8.1)  
  ~ Used PyCharm Community Edition (version 2019.3.2) as IDE  
    
- ~ (Individual Project)
+ ~ (Individual Project for the Semester 4 module CS1810 - Fundamentals of Programming in the Department of Transport and Logistic Management)
