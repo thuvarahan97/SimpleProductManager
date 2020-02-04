@@ -1,0 +1,106 @@
+id,name,price
+FN61,Ham - Cooked,$679.40 
+NZ34,Wine - Cabernet Sauvignon,$122.74 
+BY56,V8 - Tropical Blend,$711.85 
+YG13,"Veal - Brisket, Provimi, Bone - In",$308.29 
+DN76,Cheese - Goat With Herbs,$578.87 
+UX83,Island Oasis - Ice Cream Mix,$11.85 
+VB93,Bread - Calabrese Baguette,$131.87 
+BS37,"Glass - Wine, Plastic, Clear 5 Oz",$667.40 
+IS76,Table Cloth 91x91 Colour,$285.86 
+ER14,"Veal - Brisket, Provimi, Bone - In",$91.07 
+CX64,Beef - Ground Lean Fresh,$556.03 
+PY15,Evaporated Milk - Skim,$295.06 
+NB58,Pepper - Scotch Bonnet,$436.71 
+WY21,Chocolate - Liqueur Cups With Foil,$185.63 
+JK23,Pectin,$615.42 
+EY07,"Ice - Clear, 300 Lb For Carving",$469.03 
+KR85,Wine - White Cab Sauv.on,$260.34 
+OU26,Pasta - Ravioli,$308.26 
+DW49,Muffin Carrot - Individual,$397.88 
+GZ28,Grapefruit - Pink,$355.90 
+HJ57,Bread - Italian Sesame Poly,$109.41 
+EU46,Spinach - Spinach Leaf,$465.59 
+UR18,"Chicken - Leg, Boneless",$34.15 
+PX75,"Wine - Red, Cabernet Sauvignon",$385.93 
+ZI47,Chocolate - Milk Coating,$330.46 
+NS31,Lid Coffeecup 12oz D9542b,$269.48 
+FG22,Tart Shells - Sweet,$353.59 
+WP29,Wine - Ruffino Chianti,$740.49 
+WO84,"Mushroom - Morels, Dry",$598.45 
+CT54,Beer - Muskoka Cream Ale,$712.02 
+YZ43,Sultanas,$65.41 
+IW27,Cinnamon Buns Sticky,$568.34 
+EK70,Soup - Campbells - Tomato,$632.01 
+VT50,Potatoes - Pei 10 Oz,$70.31 
+CO41,"Syrup - Monin, Amaretta",$163.61 
+BX42,Plasticforkblack,$87.32 
+VY61,Water - Tonic,$775.42 
+LB22,"Appetizer - Mini Egg Roll, Shrimp",$537.84 
+YF80,Compound - Raspberry,$382.44 
+ZR96,Wine - Magnotta - Belpaese,$329.85 
+UF18,Cheese - Comtomme,$572.19 
+JP11,Milk - Buttermilk,$131.31 
+VN18,Onions Granulated,$356.37 
+WP24,Cheese - Le Cru Du Clocher,$426.56 
+DH52,Pastry - Butterscotch Baked,$261.47 
+FF79,Tea - Black Currant,$91.59 
+OA18,"Wine - White, Antinore Orvieto",$124.97 
+SV19,Bag - Regular Kraft 20 Lb,$248.99 
+XX17,Bandage - Flexible Neon,$202.06 
+XN86,Rootbeer,$16.29 
+RX19,Steam Pan Full Lid,$726.34 
+RC85,Praline Paste,$509.37 
+YM09,Mace Ground,$708.79 
+RB14,Muffin - Mix - Strawberry Rhubarb,$364.66 
+KX59,Pastry - Mini French Pastries,$539.99 
+KR97,Soup - Tomato Mush. Florentine,$361.59 
+QW69,"Bread - Pumpernickle, Rounds",$288.71 
+PD87,Trout Rainbow Whole,$17.57 
+MA94,Tuna - Bluefin,$33.41 
+YK20,Red Cod Fillets - 225g,$417.68 
+FW20,"Juice - Grape, White",$391.62 
+AA36,Onions Granulated,$638.08 
+KK23,Lemonade - Pineapple Passion,$183.87 
+YH56,Anchovy In Oil,$754.66 
+NX25,Beef - Texas Style Burger,$46.49 
+AO18,"Brocolinni - Gaylan, Chinese",$336.60 
+MT88,Napkin White - Starched,$285.08 
+ST80,Pastry - Chocolate Chip Muffin,$47.28 
+HB58,Creme De Cacao Mcguines,$670.60 
+DU13,Danishes - Mini Cheese,$651.29 
+CX07,Broom And Brush Rack Black,$709.58 
+WH99,Coriander - Ground,$12.89 
+KN57,"Thyme - Lemon, Fresh",$147.59 
+LP86,Melon - Cantaloupe,$67.74 
+BT02,Cognac - Courvaisier,$55.81 
+QK98,Sherry - Dry,$250.50 
+HV99,"Bread - Pita, Mini",$188.99 
+XB39,Scallops - In Shell,$245.39 
+RG57,Zucchini - Green,$646.77 
+TN09,Flour - Chickpea,$177.30 
+RN84,Tea - Earl Grey,$315.60 
+JR48,"Liqueur Banana, Ramazzotti",$0.33 
+CY59,"Bread - Sticks, Thin, Plain",$621.26 
+JK50,Juice Peach Nectar,$110.77 
+EK57,"Split Peas - Green, Dry",$470.11 
+VF94,"Wine - White, Pinot Grigio",$538.92 
+JS51,Dried Figs,$529.67 
+EB35,Bandage - Finger Cots,$365.63 
+NP66,Muffin Mix - Banana Nut,$554.72 
+TF50,Chicken - Leg / Back Attach,$520.83 
+VX24,Veal - Kidney,$763.61 
+LD34,"Beef - Bones, Marrow",$24.97 
+AL70,Kiwi Gold Zespri,$210.87 
+QX56,Salt - Celery,$430.40 
+IC30,Calvados - Boulard,$796.07 
+UC14,Chips - Assorted,$533.67 
+UL19,Icecream - Dibs,$349.77 
+LM11,Cheese - Brick With Pepper,$730.67 
+ZD86,Tomatoes - Heirloom,$768.08 
+YB46,Flavouring - Rum,$76.16 
+AA12,Dairy Milk Chocolate,$2.25
+PC01,Potato Chips,$3.50
+BB32,Sausages,$10.22
+OC15,Onion Chips,$11.55
+PE91,Pepper,$5.00

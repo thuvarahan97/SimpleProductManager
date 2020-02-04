@@ -2,6 +2,7 @@ from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from .forms import ProductForm
 from .models import Product
+import csv
 
 
 # Create your views here.
@@ -19,6 +20,10 @@ def product_form(request):
         form = ProductForm(request.POST)
         if form.is_valid():
             form.save()
+            with open('ProductManagerApp/storage/product_list.txt', 'a+', newline='') as csvfile:
+                writer = csv.DictWriter(csvfile, fieldnames=form.cleaned_data.keys())
+                writer.writerow({'id': form.cleaned_data['id'], 'name': form.cleaned_data['name'],
+                                 'price': '$' + str(format(form.cleaned_data['price'], '.2f'))})
             return redirect('/add_product?result=success')
         else:
             return redirect('/add_product?result=failed')
