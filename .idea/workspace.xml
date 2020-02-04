@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5683d882-61e2-42cd-8a0b-d0f89ecbf4ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManagerProject/ProductManagerApp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductManagerProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ProductManagerProject/db.sqlite3" afterDir="false" />
-    </list>
+    <list default="true" id="5683d882-61e2-42cd-8a0b-d0f89ecbf4ae" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
