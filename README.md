@@ -8,7 +8,7 @@
  
  ~ It uses product_list.txt as the storage file
  
- ~ Developed with Django (version 3.0.2) web framework  
+ ~ Developed with Django (version 3.0.2) web framework, HTML5 and Bootstrap CSS framework  
  ~ Used Python (version 3.8.1)  
  ~ Used PyCharm Community Edition (version 2019.3.2) as IDE  
    
